@@ -17,11 +17,15 @@ LPCSTR MainFunctionName = "LLD";
 LPSTR newPathName(LStrHandle path, char * name)
 {	
 	FILE * file;
+	errno_t err;
 
-	fopen_s(&file, "D:/LOGTESTDLL.txt", "a");
-	fprintf(file, "Start\n");
-	fputs(name, file);
-	fputs("\n", file);
+	if (0 == (err = fopen_s(&file, "D:/LOGTESTDLL.txt", "a")))
+	{
+		fprintf(file, "Start\n");
+		fputs(name, file);
+		fputs("\n", file);
+	}
+
 	size_t len = (*path)->cnt;
 	size_t new_size = len + strlen(name) + 1;
 
@@ -29,7 +33,7 @@ LPSTR newPathName(LStrHandle path, char * name)
 
 	strncpy(newPath,(char*)(*path)->str, len);
 	newPath[len] = '\0';
-	fputs(newPath, file);
+	if (err == 0) fputs(newPath, file);
 
 	for (int k = 0; k < strlen(name); ++k)
 	{
@@ -37,10 +41,14 @@ LPSTR newPathName(LStrHandle path, char * name)
 	}
 	newPath[new_size - 1] = '\0';
 
-	fputs(newPath, file);
+	if (err == 0)
+	{
+		fputs(newPath, file);
 	
-	fputs("\n", file);
-	fclose(file);
+		fputs("\n", file);
+		fclose(file);
+	}
+
 
 
 	return newPath; 
