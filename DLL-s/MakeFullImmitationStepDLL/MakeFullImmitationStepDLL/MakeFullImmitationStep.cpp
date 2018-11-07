@@ -106,7 +106,7 @@ __declspec(dllexport) int32_t loadNewDlls(LStrHandle path)
 #ifdef _WIN32
 
 #ifdef TEST_MODE_TRUE
-	//logger.open("D:/MAIN_LOG.txt", std::ios::out );
+	logger.open("C:/ProgramData/ComplexData/MAIN_LOG.txt", std::ios::out );
 	if (logger.is_open()) logger << "loadNewDlls\n" << std::endl;
 		
 #endif // TEST_MODE_TRUE
