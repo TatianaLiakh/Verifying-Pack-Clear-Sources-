@@ -33,77 +33,77 @@
 		<Item Name="Resource" Type="Folder">
 			<Item Name="ComplexData" Type="Folder">
 				<Item Name="CA" Type="Folder">
-					<Item Name="CA.rcs" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CA.rcs"/>
-					<Item Name="CA_dll_interface.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CA_dll_interface.cpp"/>
-					<Item Name="CA_dll_interface.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CA_dll_interface.h"/>
-					<Item Name="CA_queue_const.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CA_queue_const.h"/>
-					<Item Name="CAusr1.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CAusr1.cpp"/>
-					<Item Name="CAusr1.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/CA/CAusr1.h"/>
+					<Item Name="CA.rcs" Type="Document" URL="../ProgramData/ComplexData/CA/CA.rcs"/>
+					<Item Name="CA_dll_interface.cpp" Type="Document" URL="../ProgramData/ComplexData/CA/CA_dll_interface.cpp"/>
+					<Item Name="CA_dll_interface.h" Type="Document" URL="../ProgramData/ComplexData/CA/CA_dll_interface.h"/>
+					<Item Name="CA_queue_const.h" Type="Document" URL="../ProgramData/ComplexData/CA/CA_queue_const.h"/>
+					<Item Name="CAusr1.cpp" Type="Document" URL="../ProgramData/ComplexData/CA/CAusr1.cpp"/>
+					<Item Name="CAusr1.h" Type="Document" URL="../ProgramData/ComplexData/CA/CAusr1.h"/>
 				</Item>
 				<Item Name="Reflex2C" Type="Folder">
 					<Item Name="lib" Type="Folder">
-						<Item Name="LabVIEWData.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/LabVIEWData.h"/>
-						<Item Name="lib.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/lib.cpp"/>
-						<Item Name="lib.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/lib.h"/>
-						<Item Name="msg_queue.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/msg_queue.cpp"/>
-						<Item Name="msg_queue.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/msg_queue.h"/>
-						<Item Name="R_CNST.H" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/R_CNST.H"/>
-						<Item Name="r_io.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/r_io.cpp"/>
-						<Item Name="r_io.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/r_io.h"/>
-						<Item Name="r_lib.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/r_lib.cpp"/>
-						<Item Name="R_LIB.H" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/R_LIB.H"/>
-						<Item Name="r_main.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/lib/r_main.h"/>
+						<Item Name="LabVIEWData.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/LabVIEWData.h"/>
+						<Item Name="lib.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/lib.cpp"/>
+						<Item Name="lib.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/lib.h"/>
+						<Item Name="msg_queue.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/msg_queue.cpp"/>
+						<Item Name="msg_queue.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/msg_queue.h"/>
+						<Item Name="R_CNST.H" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/R_CNST.H"/>
+						<Item Name="r_io.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/r_io.cpp"/>
+						<Item Name="r_io.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/r_io.h"/>
+						<Item Name="r_lib.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/r_lib.cpp"/>
+						<Item Name="R_LIB.H" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/R_LIB.H"/>
+						<Item Name="r_main.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/lib/r_main.h"/>
 					</Item>
-					<Item Name="proc.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/proc.h"/>
-					<Item Name="ReflexToC.exe" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/ReflexToC.exe"/>
-					<Item Name="voc.lis" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc.lis"/>
-					<Item Name="voc.rcs" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc.rcs"/>
-					<Item Name="voc.sym" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc.sym"/>
-					<Item Name="voc0001.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc0001.cpp"/>
-					<Item Name="voc_cfg_gen.exe" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_cfg_gen.exe"/>
-					<Item Name="voc_constants.cfg" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_constants.cfg"/>
-					<Item Name="voc_dps.dbg" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_dps.dbg"/>
-					<Item Name="voc_id.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_id.cpp"/>
-					<Item Name="voc_id.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_id.h"/>
-					<Item Name="voc_variables.var" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voc_variables.var"/>
-					<Item Name="voccnst.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/voccnst.h"/>
-					<Item Name="vocext.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocext.h"/>
-					<Item Name="vocgvar.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocgvar.h"/>
-					<Item Name="vocinp.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocinp.cpp"/>
-					<Item Name="vocio.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocio.h"/>
-					<Item Name="vocmain.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocmain.cpp"/>
-					<Item Name="vocoutp.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocoutp.cpp"/>
-					<Item Name="vocports.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocports.h"/>
-					<Item Name="vocproc.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocproc.h"/>
-					<Item Name="vocusr1.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocusr1.h"/>
-					<Item Name="vocusr2.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocusr2.h"/>
-					<Item Name="vocxvar.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/Reflex2C/vocxvar.h"/>
+					<Item Name="proc.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/proc.h"/>
+					<Item Name="ReflexToC.exe" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/ReflexToC.exe"/>
+					<Item Name="voc.lis" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc.lis"/>
+					<Item Name="voc.rcs" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc.rcs"/>
+					<Item Name="voc.sym" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc.sym"/>
+					<Item Name="voc0001.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc0001.cpp"/>
+					<Item Name="voc_cfg_gen.exe" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_cfg_gen.exe"/>
+					<Item Name="voc_constants.cfg" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_constants.cfg"/>
+					<Item Name="voc_dps.dbg" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_dps.dbg"/>
+					<Item Name="voc_id.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_id.cpp"/>
+					<Item Name="voc_id.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_id.h"/>
+					<Item Name="voc_variables.var" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voc_variables.var"/>
+					<Item Name="voccnst.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/voccnst.h"/>
+					<Item Name="vocext.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocext.h"/>
+					<Item Name="vocgvar.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocgvar.h"/>
+					<Item Name="vocinp.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocinp.cpp"/>
+					<Item Name="vocio.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocio.h"/>
+					<Item Name="vocmain.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocmain.cpp"/>
+					<Item Name="vocoutp.cpp" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocoutp.cpp"/>
+					<Item Name="vocports.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocports.h"/>
+					<Item Name="vocproc.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocproc.h"/>
+					<Item Name="vocusr1.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocusr1.h"/>
+					<Item Name="vocusr2.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocusr2.h"/>
+					<Item Name="vocxvar.h" Type="Document" URL="../ProgramData/ComplexData/Reflex2C/vocxvar.h"/>
 				</Item>
 				<Item Name="SCM" Type="Folder">
-					<Item Name="SCM.rcs" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCM.rcs"/>
-					<Item Name="SCM_dll_interface.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCM_dll_interface.cpp"/>
-					<Item Name="SCM_dll_interface.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCM_dll_interface.h"/>
-					<Item Name="SCM_queue_const.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCM_queue_const.h"/>
-					<Item Name="SCMusr1.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCMusr1.cpp"/>
-					<Item Name="SCMusr1.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/SCM/SCMusr1.h"/>
+					<Item Name="SCM.rcs" Type="Document" URL="../ProgramData/ComplexData/SCM/SCM.rcs"/>
+					<Item Name="SCM_dll_interface.cpp" Type="Document" URL="../ProgramData/ComplexData/SCM/SCM_dll_interface.cpp"/>
+					<Item Name="SCM_dll_interface.h" Type="Document" URL="../ProgramData/ComplexData/SCM/SCM_dll_interface.h"/>
+					<Item Name="SCM_queue_const.h" Type="Document" URL="../ProgramData/ComplexData/SCM/SCM_queue_const.h"/>
+					<Item Name="SCMusr1.cpp" Type="Document" URL="../ProgramData/ComplexData/SCM/SCMusr1.cpp"/>
+					<Item Name="SCMusr1.h" Type="Document" URL="../ProgramData/ComplexData/SCM/SCMusr1.h"/>
 				</Item>
 				<Item Name="VM" Type="Folder">
-					<Item Name="VM.rcs" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VM.rcs"/>
-					<Item Name="VM_dll_interface.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VM_dll_interface.cpp"/>
-					<Item Name="VM_dll_interface.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VM_dll_interface.h"/>
-					<Item Name="VM_queue_const.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VM_queue_const.h"/>
-					<Item Name="VMusr1.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VMusr1.cpp"/>
-					<Item Name="VMusr1.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VM/VMusr1.h"/>
+					<Item Name="VM.rcs" Type="Document" URL="../ProgramData/ComplexData/VM/VM.rcs"/>
+					<Item Name="VM_dll_interface.cpp" Type="Document" URL="../ProgramData/ComplexData/VM/VM_dll_interface.cpp"/>
+					<Item Name="VM_dll_interface.h" Type="Document" URL="../ProgramData/ComplexData/VM/VM_dll_interface.h"/>
+					<Item Name="VM_queue_const.h" Type="Document" URL="../ProgramData/ComplexData/VM/VM_queue_const.h"/>
+					<Item Name="VMusr1.cpp" Type="Document" URL="../ProgramData/ComplexData/VM/VMusr1.cpp"/>
+					<Item Name="VMusr1.h" Type="Document" URL="../ProgramData/ComplexData/VM/VMusr1.h"/>
 				</Item>
 				<Item Name="VP" Type="Folder">
-					<Item Name="VP.rcs" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VP.rcs"/>
-					<Item Name="VP_dll_interface.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VP_dll_interface.cpp"/>
-					<Item Name="VP_dll_interface.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VP_dll_interface.h"/>
-					<Item Name="VP_queue_const.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VP_queue_const.h"/>
-					<Item Name="VPusr1.cpp" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VPusr1.cpp"/>
-					<Item Name="VPusr1.h" Type="Document" URL="../../../../../../../ProgramData/ComplexData/VP/VPusr1.h"/>
+					<Item Name="VP.rcs" Type="Document" URL="../ProgramData/ComplexData/VP/VP.rcs"/>
+					<Item Name="VP_dll_interface.cpp" Type="Document" URL="../ProgramData/ComplexData/VP/VP_dll_interface.cpp"/>
+					<Item Name="VP_dll_interface.h" Type="Document" URL="../ProgramData/ComplexData/VP/VP_dll_interface.h"/>
+					<Item Name="VP_queue_const.h" Type="Document" URL="../ProgramData/ComplexData/VP/VP_queue_const.h"/>
+					<Item Name="VPusr1.cpp" Type="Document" URL="../ProgramData/ComplexData/VP/VPusr1.cpp"/>
+					<Item Name="VPusr1.h" Type="Document" URL="../ProgramData/ComplexData/VP/VPusr1.h"/>
 				</Item>
-				<Item Name="make_dll.bat" Type="Document" URL="../../../../../../../ProgramData/ComplexData/make_dll.bat"/>
+				<Item Name="make_dll.bat" Type="Document" URL="../ProgramData/ComplexData/make_dll.bat"/>
 			</Item>
 			<Item Name="installers" Type="Folder"/>
 			<Item Name="build_script.bat" Type="Document" URL="../Build/build_script.bat"/>
@@ -140,16 +140,626 @@
 				<Item Name="VM.vi" Type="VI" URL="../src/VM.vi"/>
 				<Item Name="VP.vi" Type="VI" URL="../src/VP.vi"/>
 			</Item>
-			<Item Name="Picture" Type="Folder">
-				<Item Name="GD.vi" Type="VI" URL="../src/Picture/GD.vi"/>
-				<Item Name="LP01n.vi" Type="VI" URL="../Test Project/Pic/LP01n.vi"/>
-				<Item Name="Picture.vi" Type="VI" URL="../src/Picture/Picture.vi"/>
-			</Item>
 			<Item Name="ProjectStructureConstructors" Type="Folder">
 				<Item Name="Create Progect.vi" Type="VI" URL="../src/Create Progect.vi"/>
 				<Item Name="CreateNewProgect.vi" Type="VI" URL="../src/lib/CreateNewProgect.vi"/>
 				<Item Name="CreateServiceFolder.vi" Type="VI" URL="../src/lib/CreateServiceFolder.vi"/>
 				<Item Name="Load PIC and XML.vi" Type="VI" URL="../src/Load PIC and XML.vi"/>
+			</Item>
+			<Item Name="src" Type="Folder">
+				<Item Name="Controls" Type="Folder">
+					<Item Name="Pict" Type="Folder">
+						<Item Name="64x64" Type="Folder">
+							<Item Name="Box" Type="Folder">
+								<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/Box/EjectDisabled.png"/>
+								<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/64x64/Box/EjectHot.png"/>
+								<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/Box/EjectNormal.png"/>
+								<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/Box/EjectNormalRed.png"/>
+								<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/64x64/Box/EjectPressed.png"/>
+							</Item>
+							<Item Name="CircleBlue" Type="Folder">
+								<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBlue/Play1Disabled.png"/>
+								<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBlue/Play1Hot.png"/>
+								<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBlue/Play1Normal.png"/>
+								<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBlue/Play1Pressed.png"/>
+							</Item>
+							<Item Name="CircleBordered" Type="Folder">
+								<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardDisabled.png"/>
+								<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardHot.png"/>
+								<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardNormal.png"/>
+								<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardNormalBlue.png"/>
+								<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardNormalOrange.png"/>
+								<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardNormalRed.png"/>
+								<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardNormalYellow.png"/>
+								<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardPressed.png"/>
+								<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/StepForwardPressedBlue.png"/>
+								<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1Disabled.png"/>
+								<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1Hot.png"/>
+								<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1Normal.png"/>
+								<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1NormalBlue.png"/>
+								<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1NormalOrange.png"/>
+								<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1NormalRed.png"/>
+								<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1NormalYellow.png"/>
+								<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1Pressed.png"/>
+								<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/Stop1PressedBlue.png"/>
+								<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeDisabled.png"/>
+								<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeHot.png"/>
+								<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeNormal.png"/>
+								<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeNormalBlue.png"/>
+								<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeNormalOrange.png"/>
+								<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeNormalRed.png"/>
+								<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumeNormalYellow.png"/>
+								<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumePressed.png"/>
+								<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/64x64/CircleBordered/VolumePressedBlue.png"/>
+							</Item>
+							<Item Name="PlainBlue" Type="Folder">
+								<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainBlue/MicrophoneDisabled.png"/>
+								<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainBlue/MicrophoneHot.png"/>
+								<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainBlue/MicrophoneNormal.png"/>
+								<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainBlue/MicrophonePressed.png"/>
+							</Item>
+							<Item Name="PlainGreen" Type="Folder">
+								<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/PauseDisabled.png"/>
+								<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/PauseHot.png"/>
+								<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/PauseNormal.png"/>
+								<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/PauseNormalRed.png"/>
+								<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/PausePressed.png"/>
+								<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/RecordDisabled.png"/>
+								<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/RecordHot.png"/>
+								<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/RecordNormal.png"/>
+								<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/RecordNormalRed.png"/>
+								<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/64x64/PlainGreen/RecordPressed.png"/>
+							</Item>
+						</Item>
+						<Item Name="IconsLandVistaPlayStopPauseIconsDemo" Type="Folder">
+							<Item Name="ICO" Type="Folder">
+								<Item Name="Box" Type="Folder">
+									<Item Name="EjectDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/Box/EjectDisabled.ico"/>
+									<Item Name="EjectHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/Box/EjectHot.ico"/>
+									<Item Name="EjectNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/Box/EjectNormal.ico"/>
+									<Item Name="EjectNormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/Box/EjectNormalRed.ico"/>
+									<Item Name="EjectPressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/Box/EjectPressed.ico"/>
+								</Item>
+								<Item Name="CircleBlue" Type="Folder">
+									<Item Name="Play1Disabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBlue/Play1Disabled.ico"/>
+									<Item Name="Play1Hot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBlue/Play1Hot.ico"/>
+									<Item Name="Play1Normal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBlue/Play1Normal.ico"/>
+									<Item Name="Play1Pressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBlue/Play1Pressed.ico"/>
+								</Item>
+								<Item Name="CircleBordered" Type="Folder">
+									<Item Name="StepForwardDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardDisabled.ico"/>
+									<Item Name="StepForwardHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardHot.ico"/>
+									<Item Name="StepForwardNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardNormal.ico"/>
+									<Item Name="StepForwardNormalBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardNormalBlue.ico"/>
+									<Item Name="StepForwardNormalOrange.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardNormalOrange.ico"/>
+									<Item Name="StepForwardNormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardNormalRed.ico"/>
+									<Item Name="StepForwardNormalYellow.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardNormalYellow.ico"/>
+									<Item Name="StepForwardPressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardPressed.ico"/>
+									<Item Name="StepForwardPressedBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/StepForwardPressedBlue.ico"/>
+									<Item Name="Stop1Disabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1Disabled.ico"/>
+									<Item Name="Stop1Hot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1Hot.ico"/>
+									<Item Name="Stop1Normal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1Normal.ico"/>
+									<Item Name="Stop1NormalBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1NormalBlue.ico"/>
+									<Item Name="Stop1NormalOrange.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1NormalOrange.ico"/>
+									<Item Name="Stop1NormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1NormalRed.ico"/>
+									<Item Name="Stop1NormalYellow.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1NormalYellow.ico"/>
+									<Item Name="Stop1Pressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1Pressed.ico"/>
+									<Item Name="Stop1PressedBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/Stop1PressedBlue.ico"/>
+									<Item Name="VolumeDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeDisabled.ico"/>
+									<Item Name="VolumeHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeHot.ico"/>
+									<Item Name="VolumeNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeNormal.ico"/>
+									<Item Name="VolumeNormalBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeNormalBlue.ico"/>
+									<Item Name="VolumeNormalOrange.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeNormalOrange.ico"/>
+									<Item Name="VolumeNormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeNormalRed.ico"/>
+									<Item Name="VolumeNormalYellow.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumeNormalYellow.ico"/>
+									<Item Name="VolumePressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumePressed.ico"/>
+									<Item Name="VolumePressedBlue.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/CircleBordered/VolumePressedBlue.ico"/>
+								</Item>
+								<Item Name="PlainBlue" Type="Folder">
+									<Item Name="MicrophoneDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainBlue/MicrophoneDisabled.ico"/>
+									<Item Name="MicrophoneHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainBlue/MicrophoneHot.ico"/>
+									<Item Name="MicrophoneNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainBlue/MicrophoneNormal.ico"/>
+									<Item Name="MicrophonePressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainBlue/MicrophonePressed.ico"/>
+								</Item>
+								<Item Name="PlainGreen" Type="Folder">
+									<Item Name="PauseDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/PauseDisabled.ico"/>
+									<Item Name="PauseHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/PauseHot.ico"/>
+									<Item Name="PauseNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/PauseNormal.ico"/>
+									<Item Name="PauseNormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/PauseNormalRed.ico"/>
+									<Item Name="PausePressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/PausePressed.ico"/>
+									<Item Name="RecordDisabled.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/RecordDisabled.ico"/>
+									<Item Name="RecordHot.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/RecordHot.ico"/>
+									<Item Name="RecordNormal.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/RecordNormal.ico"/>
+									<Item Name="RecordNormalRed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/RecordNormalRed.ico"/>
+									<Item Name="RecordPressed.ico" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ICO/PlainGreen/RecordPressed.ico"/>
+								</Item>
+							</Item>
+							<Item Name="PNG" Type="Folder">
+								<Item Name="16x16" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/16x16/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="24x24" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/24x24/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="32x32" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/32x32/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="48x48" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/48x48/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="64x64" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/64x64/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="128x128" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/128x128/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+								<Item Name="256x256" Type="Folder">
+									<Item Name="Box" Type="Folder">
+										<Item Name="EjectDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/Box/EjectDisabled.png"/>
+										<Item Name="EjectHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/Box/EjectHot.png"/>
+										<Item Name="EjectNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/Box/EjectNormal.png"/>
+										<Item Name="EjectNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/Box/EjectNormalRed.png"/>
+										<Item Name="EjectPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/Box/EjectPressed.png"/>
+									</Item>
+									<Item Name="CircleBlue" Type="Folder">
+										<Item Name="Play1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBlue/Play1Disabled.png"/>
+										<Item Name="Play1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBlue/Play1Hot.png"/>
+										<Item Name="Play1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBlue/Play1Normal.png"/>
+										<Item Name="Play1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBlue/Play1Pressed.png"/>
+									</Item>
+									<Item Name="CircleBordered" Type="Folder">
+										<Item Name="StepForwardDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardDisabled.png"/>
+										<Item Name="StepForwardHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardHot.png"/>
+										<Item Name="StepForwardNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardNormal.png"/>
+										<Item Name="StepForwardNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardNormalBlue.png"/>
+										<Item Name="StepForwardNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardNormalOrange.png"/>
+										<Item Name="StepForwardNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardNormalRed.png"/>
+										<Item Name="StepForwardNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardNormalYellow.png"/>
+										<Item Name="StepForwardPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardPressed.png"/>
+										<Item Name="StepForwardPressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/StepForwardPressedBlue.png"/>
+										<Item Name="Stop1Disabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1Disabled.png"/>
+										<Item Name="Stop1Hot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1Hot.png"/>
+										<Item Name="Stop1Normal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1Normal.png"/>
+										<Item Name="Stop1NormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1NormalBlue.png"/>
+										<Item Name="Stop1NormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1NormalOrange.png"/>
+										<Item Name="Stop1NormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1NormalRed.png"/>
+										<Item Name="Stop1NormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1NormalYellow.png"/>
+										<Item Name="Stop1Pressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1Pressed.png"/>
+										<Item Name="Stop1PressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/Stop1PressedBlue.png"/>
+										<Item Name="VolumeDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeDisabled.png"/>
+										<Item Name="VolumeHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeHot.png"/>
+										<Item Name="VolumeNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeNormal.png"/>
+										<Item Name="VolumeNormalBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeNormalBlue.png"/>
+										<Item Name="VolumeNormalOrange.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeNormalOrange.png"/>
+										<Item Name="VolumeNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeNormalRed.png"/>
+										<Item Name="VolumeNormalYellow.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumeNormalYellow.png"/>
+										<Item Name="VolumePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumePressed.png"/>
+										<Item Name="VolumePressedBlue.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/CircleBordered/VolumePressedBlue.png"/>
+									</Item>
+									<Item Name="PlainBlue" Type="Folder">
+										<Item Name="MicrophoneDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainBlue/MicrophoneDisabled.png"/>
+										<Item Name="MicrophoneHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainBlue/MicrophoneHot.png"/>
+										<Item Name="MicrophoneNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainBlue/MicrophoneNormal.png"/>
+										<Item Name="MicrophonePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainBlue/MicrophonePressed.png"/>
+									</Item>
+									<Item Name="PlainGreen" Type="Folder">
+										<Item Name="PauseDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/PauseDisabled.png"/>
+										<Item Name="PauseHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/PauseHot.png"/>
+										<Item Name="PauseNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/PauseNormal.png"/>
+										<Item Name="PauseNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/PauseNormalRed.png"/>
+										<Item Name="PausePressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/PausePressed.png"/>
+										<Item Name="RecordDisabled.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/RecordDisabled.png"/>
+										<Item Name="RecordHot.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/RecordHot.png"/>
+										<Item Name="RecordNormal.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/RecordNormal.png"/>
+										<Item Name="RecordNormalRed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/RecordNormalRed.png"/>
+										<Item Name="RecordPressed.png" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/PNG/256x256/PlainGreen/RecordPressed.png"/>
+									</Item>
+								</Item>
+							</Item>
+							<Item Name="Buy Entire Icon Set.url" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/Buy Entire Icon Set.url"/>
+							<Item Name="Icons-Land Home.url" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/Icons-Land Home.url"/>
+							<Item Name="IconsLandStockIconsLicense.txt" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/IconsLandStockIconsLicense.txt"/>
+							<Item Name="ProductInformation.html" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/ProductInformation.html"/>
+							<Item Name="VistaPlayStopPauseIcons.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIcons.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsOnePreview.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsOnePreview.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsPreview1.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsPreview1.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsPreview2.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsPreview2.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsPreview3.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsPreview3.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsPreview4.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsPreview4.jpg"/>
+							<Item Name="VistaPlayStopPauseIconsPreview5.jpg" Type="Document" URL="../src/Controls/Pict/IconsLandVistaPlayStopPauseIconsDemo/VistaPlayStopPauseIconsPreview5.jpg"/>
+						</Item>
+						<Item Name="pause.png" Type="Document" URL="../src/Controls/Pict/pause.png"/>
+						<Item Name="play.png" Type="Document" URL="../src/Controls/Pict/play.png"/>
+						<Item Name="stop.png" Type="Document" URL="../src/Controls/Pict/stop.png"/>
+					</Item>
+					<Item Name="play.png" Type="Document" URL="../src/Controls/play.png"/>
+				</Item>
+				<Item Name="Dll interaction lib" Type="Folder">
+					<Item Name="Call DLLs.vi" Type="VI" URL="../src/Dll interaction lib/Call DLLs.vi"/>
+					<Item Name="InitDLLs_old.vi" Type="VI" URL="../src/Dll interaction lib/InitDLLs_old.vi"/>
+				</Item>
+				<Item Name="lib" Type="Folder">
+					<Item Name="Create FOLDER.vi" Type="VI" URL="../src/lib/Create FOLDER.vi"/>
+					<Item Name="FormVarValuesArray.vi" Type="VI" URL="../src/lib/FormVarValuesArray.vi"/>
+					<Item Name="Load ALL Ports.vi" Type="VI" URL="../src/lib/Load ALL Ports.vi"/>
+					<Item Name="VI_1.vi" Type="VI" URL="../src/lib/VI_1.vi"/>
+				</Item>
+				<Item Name="Parsers" Type="Folder">
+					<Item Name="AnalyzePortsHeader.vi" Type="VI" URL="../src/Parsers/AnalyzePortsHeader.vi"/>
+					<Item Name="ConfFileParser.vi" Type="VI" URL="../src/Parsers/ConfFileParser.vi"/>
+					<Item Name="MsgCfgParser.vi" Type="VI" URL="../src/Parsers/MsgCfgParser.vi"/>
+					<Item Name="output_log.txt" Type="Document" URL="../src/Parsers/output_log.txt"/>
+					<Item Name="ParseVarFile.vi" Type="VI" URL="../src/Parsers/ParseVarFile.vi"/>
+					<Item Name="ProcAndStates.vi" Type="VI" URL="../src/Parsers/ProcAndStates.vi"/>
+					<Item Name="ReadPortsHeader.vi" Type="VI" URL="../src/Parsers/ReadPortsHeader.vi"/>
+				</Item>
+				<Item Name="Representation Module" Type="Folder">
+					<Item Name="ArParser.vi" Type="VI" URL="../src/Representation Module/ArParser.vi"/>
+					<Item Name="Changer.vi" Type="VI" URL="../src/Representation Module/Changer.vi"/>
+					<Item Name="Creator.vi" Type="VI" URL="../src/Representation Module/Creator.vi"/>
+					<Item Name="GD.vi" Type="VI" URL="../src/Representation Module/GD.vi"/>
+					<Item Name="XMLparser.vi" Type="VI" URL="../src/Representation Module/XMLparser.vi"/>
+				</Item>
+				<Item Name="Sandbox" Type="Folder"/>
+				<Item Name="Loader.dll" Type="Document" URL="../src/Loader.dll"/>
+				<Item Name="ParceCFG.vi" Type="VI" URL="../src/ParceCFG.vi"/>
+				<Item Name="PSConverter.vi" Type="VI" URL="../src/PSConverter.vi"/>
+				<Item Name="test.dll" Type="Document" URL="../src/test.dll"/>
+				<Item Name="VB.vi" Type="VI" URL="../src/VB.vi"/>
 			</Item>
 			<Item Name="Main.vi" Type="VI" URL="../src/Main.vi"/>
 		</Item>
@@ -196,27 +806,13 @@
 				<Item Name="Waveform Scalar Limit Comparison.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Waveform Scalar Limit Comparison.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="AnalyzePortsHeader.vi" Type="VI" URL="../src/Parsers/AnalyzePortsHeader.vi"/>
-			<Item Name="ArParser.vi" Type="VI" URL="../src/Picture/ArParser.vi"/>
-			<Item Name="Changer.vi" Type="VI" URL="../src/Picture/Changer.vi"/>
-			<Item Name="ConfFileParser.vi" Type="VI" URL="../src/Parsers/ConfFileParser.vi"/>
-			<Item Name="Creator.vi" Type="VI" URL="../src/Picture/Creator.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="FormVarValuesArray.vi" Type="VI" URL="../src/lib/FormVarValuesArray.vi"/>
-			<Item Name="Loader.dll" Type="Document" URL="../src/Loader.dll"/>
 			<Item Name="MakeFullImmitationStepDLL.dll" Type="Document" URL="../DLL-s/MakeFullImmitationStepDLL/Release/MakeFullImmitationStepDLL.dll"/>
-			<Item Name="MsgCfgParser.vi" Type="VI" URL="../src/Parsers/MsgCfgParser.vi"/>
 			<Item Name="new_bsvt_test.dll" Type="Document" URL="../DLL-s/new_bsvt_test/Debug/new_bsvt_test.dll"/>
-			<Item Name="ParceCFG.vi" Type="VI" URL="../src/ParceCFG.vi"/>
-			<Item Name="ParseVarFile.vi" Type="VI" URL="../src/Parsers/ParseVarFile.vi"/>
-			<Item Name="ProcAndStates.vi" Type="VI" URL="../src/Parsers/ProcAndStates.vi"/>
-			<Item Name="PSConverter.vi" Type="VI" URL="../src/PSConverter.vi"/>
-			<Item Name="ReadPortsHeader.vi" Type="VI" URL="../src/Parsers/ReadPortsHeader.vi"/>
 			<Item Name="test.dll" Type="Document" URL="../DLL-s/test/Debug/test.dll"/>
 			<Item Name="VB.dll" Type="Document" URL="../../../../VB.dll"/>
-			<Item Name="XMLparser.vi" Type="VI" URL="../src/Picture/XMLparser.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="EXE_VerificationComplex" Type="EXE">
@@ -294,7 +890,7 @@
 				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
 				<Property Name="DestinationCount" Type="Int">1</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">DefaultFull</Property>
-				<Property Name="DistPart[0].productID" Type="Str">{1478F207-677B-443B-B305-E924A6289F1B}</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{4C1F4C94-7160-4A79-8BE3-4BACCFDE93DF}</Property>
 				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Run-Time Engine 2010 SP1</Property>
 				<Property Name="DistPart[0].upgradeCode" Type="Str">{9F6EADB1-707C-41AF-8F3D-FB856FA8BD1C}</Property>
 				<Property Name="DistPartCount" Type="Int">1</Property>
@@ -306,6 +902,7 @@
 				<Property Name="INST_productName" Type="Str">Verification Proj</Property>
 				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
+				<Property Name="InstSpecVersion" Type="Str">10018002</Property>
 				<Property Name="MSI_distID" Type="Str">{689EC630-F1AD-4E40-A8E6-C979EFF031CE}</Property>
 				<Property Name="MSI_osCheck" Type="Int">0</Property>
 				<Property Name="MSI_upgradeCode" Type="Str">{10849644-9EDD-4ECA-9D66-106F54A40C73}</Property>
